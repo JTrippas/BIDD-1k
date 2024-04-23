@@ -36,7 +36,7 @@ crowdsourcing data that was collected.
 If you use the `BIDD-1k`, please cite the paper:
 
 ```
-@inproceedings{trippas2018informing,
+@inproceedings{trippas2024what,
  author = {Trippas, Johanne R. and Al Lawati, Sara Fahad Dawood and Mackenzie, Joel and Gallagher, Luke},
  title = {What do Users Really Ask Large Language Models? An Initial Log Analysis of Google Bard Interactions in the Wild},
  booktitle = {Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '24)},
